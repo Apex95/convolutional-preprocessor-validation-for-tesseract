@@ -7,6 +7,8 @@ It uses the set of trained convolution filters avaiable in `conv-filters/cov_fil
 The `plots/` directory contains the plots referenced in the article (generated when running the script).
 
 
+The code might be a little bit messy as I've never thought I'd actually publish it.
+
 ## Running
 
 ```
